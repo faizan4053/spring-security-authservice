@@ -1,0 +1,825 @@
+2021-07-29 11:20:15 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-07-29 11:20:15 INFO  LoggerConfig:51 - User is present with username doug@bailey.com
+2021-07-29 11:20:15 INFO  LoggerConfig:51 - User is present with username doug@bailey.com
+2021-07-29 11:25:26 INFO  LoggerConfig:51 - User is present with username faizan@mohd.com
+2021-07-29 11:27:16 INFO  LoggerConfig:51 - User is present with username faizan@mohd.com
+2021-07-29 11:39:08 INFO  LoggerConfig:51 - User is present with username faizan@mohd.com
+2021-07-29 18:34:59 INFO  LoggerConfig:51 - User is present with username faizan@mohd.com
+2021-07-30 13:40:07 INFO  LoggerConfig:51 - User is present with username faizan@mohd.com
+2021-07-30 13:40:08 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-07-30 13:40:08 INFO  LoggerConfig:51 - User is present with username doug@bailey.com
+2021-07-30 13:40:08 INFO  LoggerConfig:51 - User is present with username doug@bailey.com
+2021-07-30 13:54:24 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-07-30 13:54:32 INFO  LoggerConfig:52 - User is present with username doug@1234.com
+2021-07-30 13:54:39 INFO  LoggerConfig:52 - User is present with username doug@12345.com
+2021-07-30 13:54:47 INFO  LoggerConfig:52 - User is present with username doug@123456.com
+2021-07-30 13:54:53 INFO  LoggerConfig:52 - User is present with username doug@1234567.com
+2021-07-30 13:55:00 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-07-30 14:11:12 ERROR LoggerConfig:49 - User is not present for username none@not.com
+2021-07-30 14:11:58 ERROR LoggerConfig:49 - User is not present for username none@not.com
+2021-07-30 14:13:43 ERROR LoggerConfig:49 - User is not present for username none@not.com
+2021-07-30 14:16:43 ERROR LoggerConfig:49 - User is not present for username none@not.com
+2021-07-30 14:16:44 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-07-30 14:16:44 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-07-30 14:16:46 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-07-30 15:14:31 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-07-30 16:57:32 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-07-31 00:03:39 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:05:53 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 00:06:12 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:08:08 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:09:04 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:12:49 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:12:52 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:12:54 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:24:07 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:30:52 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:35:18 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:38:54 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 00:39:03 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 00:39:11 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 00:39:20 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 01:38:04 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 01:38:22 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 01:39:47 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 01:40:26 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 01:44:11 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 01:45:41 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 01:47:49 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 01:49:13 ERROR LoggerConfig:49 - User is not present for username couponclientapp
+2021-08-01 01:50:23 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 01:50:34 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 01:52:40 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 01:53:01 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 01:59:07 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:00:20 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:00:30 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:00:40 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:00:51 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:05:27 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:12:41 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:13:31 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:25:45 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:25:49 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:33:52 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:36:40 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 02:37:55 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 15:32:02 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 20:41:12 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 20:49:10 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 20:49:20 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:01:05 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:01:22 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:01:27 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:01:31 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:01:36 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:01:46 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:02:04 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:04:09 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 21:55:01 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:09:28 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:16:45 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:18:27 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:18:31 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:18:36 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:23:16 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:23:23 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:23:27 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:26:43 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:30:29 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:33:48 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:48:24 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:56:54 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:57:58 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 22:58:16 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:00:11 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:04:37 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:14:31 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:16:19 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:17:02 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:17:40 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:17:52 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:25:56 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:26:35 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:27:21 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:28:02 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-01 23:34:21 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-02 01:27:30 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-02 10:05:53 INFO  LoggerConfig:52 - User is present with username doug@123.com
+2021-08-02 10:21:10 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 10:21:14 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 10:21:18 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 10:21:26 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 10:25:56 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 10:57:41 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:12:54 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-02 11:14:31 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:15:20 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:27:24 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:28:22 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:33:11 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:33:16 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:33:20 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:34:54 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:34:57 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:35:00 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:35:03 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:47:57 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:53:05 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:53:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:53:13 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 11:56:40 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:00:56 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:02:06 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:16:34 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:23:33 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:23:51 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:31:29 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:32:01 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:36:52 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:44:48 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:45:48 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 12:50:53 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:05:20 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 14:05:20 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 14:05:20 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 14:05:20 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 14:05:20 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 14:05:20 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 14:05:20 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 14:05:20 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 14:05:20 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 14:05:20 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 14:05:20 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 14:05:20 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 14:05:20 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 14:05:20 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 14:07:39 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:09:25 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:09:28 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:11:14 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:15:06 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:15:08 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:15:14 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:17:21 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:17:25 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:17:30 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:18:00 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:18:04 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:18:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:25:16 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 14:25:17 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:07:27 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:07:33 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:07:37 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:07:41 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:20:48 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:20:54 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:44:49 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:44:53 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:45:34 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 15:45:34 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:45:34 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:45:34 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 15:45:34 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 15:45:34 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 15:45:34 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 15:45:34 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:45:34 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 15:45:34 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 15:45:34 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 15:45:34 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:45:34 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 15:45:34 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 15:45:40 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:46:09 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 15:46:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:46:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:48:39 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 15:49:23 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 15:49:23 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:49:23 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:49:23 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 15:49:23 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 15:49:23 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 15:49:23 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 15:49:23 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:49:23 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 15:49:23 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 15:49:23 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 15:49:23 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:49:23 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 15:49:23 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 15:49:28 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:49:51 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 15:49:52 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:49:52 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:52:30 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 15:52:30 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:52:30 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:52:30 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 15:52:30 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 15:52:30 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 15:52:30 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 15:52:30 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:52:30 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 15:52:30 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 15:52:30 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 15:52:30 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:52:30 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 15:52:30 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 15:52:34 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:52:58 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 15:52:58 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:52:58 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:54:13 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 15:54:13 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:54:13 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:54:14 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 15:54:14 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 15:54:14 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 15:54:14 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 15:54:14 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 15:54:14 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 15:54:14 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 15:54:14 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 15:54:14 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 15:54:14 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 15:54:14 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 15:54:18 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:54:40 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 15:54:41 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 15:54:41 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:08:47 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:08:50 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 16:08:50 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:08:50 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:08:55 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 16:08:55 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 16:08:55 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 16:08:55 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 16:08:55 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 16:08:55 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 16:08:55 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 16:08:55 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 16:08:55 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 16:08:55 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 16:08:55 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 16:08:55 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 16:08:55 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 16:08:55 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 16:12:57 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 16:12:57 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 16:12:57 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 16:12:57 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 16:12:57 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 16:12:57 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 16:12:57 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 16:12:57 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 16:12:57 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 16:12:57 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 16:12:57 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 16:12:57 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 16:12:57 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 16:12:57 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 16:13:01 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:13:25 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 16:13:25 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:13:25 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:22:25 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 16:22:25 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 16:22:25 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 16:22:25 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 16:22:25 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 16:22:25 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 16:22:25 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 16:22:25 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 16:22:25 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 16:22:25 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 16:22:25 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 16:22:25 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 16:22:25 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 16:22:25 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 16:22:30 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:22:52 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 16:22:52 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 16:22:52 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:05:52 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 17:05:52 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 17:05:52 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 17:05:52 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 17:05:52 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 17:05:52 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 17:05:52 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 17:05:52 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 17:05:52 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 17:05:52 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 17:05:52 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 17:05:52 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 17:05:53 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 17:05:53 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 17:06:00 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:06:37 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 17:06:37 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:06:37 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:08:20 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 17:08:20 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 17:08:20 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 17:08:20 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 17:08:20 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 17:08:20 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 17:08:20 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 17:08:20 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 17:08:20 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 17:08:20 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 17:08:20 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 17:08:20 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 17:08:20 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 17:08:20 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 17:08:25 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:08:50 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 17:08:50 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:08:50 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:32:11 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 17:32:11 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 17:32:11 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 17:32:11 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 17:32:11 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 17:32:11 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 17:32:11 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 17:32:11 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 17:32:11 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 17:32:11 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 17:32:11 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 17:32:11 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 17:32:11 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 17:32:11 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 17:32:16 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:32:41 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 17:32:41 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:32:41 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:37:32 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 17:38:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:38:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:49:19 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 17:51:08 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:01:37 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:03:35 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:03:40 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:04:39 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:05:42 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:09:16 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:12:49 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:13:06 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:13:46 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:15:24 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:15:43 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:16:16 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:17:02 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:17:11 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:17:59 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:19:10 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:19:44 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:20:52 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:21:04 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:21:29 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:22:19 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:22:29 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:23:16 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:23:49 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:24:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:25:50 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:30:02 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:30:40 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:38:14 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:38:34 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:43:30 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 18:43:42 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:06:12 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:06:54 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:21:24 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:25:33 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:26:20 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:26:43 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:27:05 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:27:07 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:28:47 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:29:15 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:31:12 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:31:17 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:32:11 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:32:54 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:33:57 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 19:34:03 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 20:21:25 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 20:21:29 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 20:32:48 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 23:44:48 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 23:44:48 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 23:44:48 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 23:44:48 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 23:44:48 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 23:44:48 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 23:44:48 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 23:44:48 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 23:44:48 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 23:44:48 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 23:44:48 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 23:44:48 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 23:44:48 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 23:44:48 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 23:44:57 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 23:45:32 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 23:45:32 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 23:45:32 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 23:51:30 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-02 23:51:30 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 23:51:30 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 23:51:30 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-02 23:51:30 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-02 23:51:30 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-02 23:51:30 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-02 23:51:30 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-02 23:51:30 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-02 23:51:30 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-02 23:51:30 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-02 23:51:30 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-02 23:51:30 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-02 23:51:30 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-02 23:51:33 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 23:51:56 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-02 23:51:56 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-02 23:51:56 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 08:57:03 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 08:58:05 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-03 08:58:05 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-03 08:58:05 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-03 08:58:05 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-03 08:58:05 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-03 08:58:05 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-03 08:58:05 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-03 08:58:05 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-03 08:58:05 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-03 08:58:05 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-03 08:58:05 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-03 08:58:05 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-03 08:58:05 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-03 08:58:05 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-03 08:58:36 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-03 08:58:36 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 08:58:36 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 10:26:13 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 10:26:28 INFO  LoggerConfig:51 - User is present with username doug@1234.com
+2021-08-03 10:26:46 INFO  LoggerConfig:51 - User is present with username doug@12345.com
+2021-08-03 10:26:58 INFO  LoggerConfig:51 - User is present with username doug@123456.com
+2021-08-03 10:27:10 INFO  LoggerConfig:51 - User is present with username doug@1234567.com
+2021-08-03 10:27:30 INFO  LoggerConfig:51 - User is present with username doug@123456.com
+2021-08-03 10:27:42 INFO  LoggerConfig:51 - User is present with username doug@12345.com
+2021-08-03 10:28:14 INFO  LoggerConfig:51 - User is present with username doug@12345.com
+2021-08-03 10:28:26 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 10:52:11 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-03 10:52:11 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-03 10:52:11 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-03 10:52:11 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-03 10:52:11 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-03 10:52:11 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-03 10:52:11 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-03 10:52:11 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-03 10:52:11 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-03 10:52:11 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-03 10:52:11 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-03 10:52:11 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-03 10:52:11 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-03 10:52:11 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-03 11:18:16 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-03 11:18:16 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-03 11:18:16 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-03 11:18:16 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-03 11:18:16 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-03 11:18:16 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-03 11:18:16 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-03 11:18:16 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-03 11:18:16 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-03 11:18:16 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-03 11:18:16 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-03 11:18:16 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-03 11:18:16 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-03 11:18:16 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-03 11:53:54 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-03 11:53:54 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 11:53:55 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 14:42:02 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 14:43:12 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 14:43:40 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 14:43:45 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 14:44:21 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 14:45:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 14:45:32 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 16:43:37 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 16:47:28 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 16:54:38 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 16:55:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:35:49 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:35:50 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:37:47 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:39:53 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:39:59 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:40:04 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:40:09 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:40:16 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:46:31 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:46:58 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:47:07 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:47:18 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 17:47:52 INFO  LoggerConfig:51 - User is present with username doug@123.com
+2021-08-03 23:30:24 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 23:30:52 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-03 23:38:59 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 23:39:01 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 23:39:01 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 23:39:01 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 23:39:10 ERROR LoggerConfig:48 - User is not present for username doug@123.com
+2021-08-03 23:39:33 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-03 23:40:02 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 00:16:16 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 00:27:07 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 09:00:23 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 09:00:23 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 09:00:23 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 09:00:23 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 09:00:23 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 09:00:23 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 09:00:23 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 09:00:23 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 09:00:23 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 09:00:23 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 09:00:23 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 09:00:23 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 09:00:23 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 09:00:23 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 10:01:48 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 10:02:33 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 10:04:33 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 10:04:33 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:04:33 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:04:33 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 10:04:33 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 10:04:33 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 10:04:33 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 10:04:33 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:04:33 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 10:04:33 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 10:04:33 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 10:04:33 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:04:33 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 10:04:33 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 10:12:59 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 10:13:35 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 10:14:20 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-04 10:15:20 ERROR LoggerConfig:48 - User is not present for username none@not.com
+2021-08-04 10:15:20 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 10:15:20 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 10:22:42 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 10:22:42 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:22:42 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:22:42 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 10:22:42 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 10:22:42 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 10:22:42 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 10:22:42 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:22:42 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 10:22:42 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 10:22:42 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 10:22:42 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:22:42 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 10:22:42 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 10:24:04 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 10:24:04 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:24:04 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:24:04 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 10:24:04 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 10:24:04 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 10:24:04 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 10:24:04 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:24:04 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 10:24:04 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 10:24:04 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 10:24:04 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:24:04 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 10:24:04 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 10:27:32 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 10:27:32 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:27:32 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:27:32 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 10:27:32 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 10:27:32 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 10:27:32 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 10:27:32 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:27:32 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 10:27:32 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 10:27:32 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 10:27:32 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:27:32 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 10:27:32 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 10:34:43 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 10:34:43 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:34:43 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:34:43 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 10:34:43 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 10:34:43 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 10:34:43 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 10:34:43 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:34:43 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 10:34:43 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 10:34:43 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 10:34:43 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:34:43 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 10:34:43 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 10:39:01 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 10:39:01 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:39:01 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:39:01 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 10:39:01 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 10:39:01 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 10:39:01 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 10:39:01 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:39:01 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 10:39:01 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 10:39:01 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 10:39:01 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:39:01 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 10:39:01 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 10:58:47 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 10:58:47 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:58:47 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:58:47 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 10:58:47 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 10:58:47 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 10:58:47 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 10:58:47 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 10:58:47 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 10:58:47 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 10:58:47 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 10:58:47 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 10:58:47 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 10:58:47 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 11:00:54 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 11:00:54 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:00:54 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:00:54 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 11:00:54 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 11:00:54 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 11:00:54 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 11:00:54 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:00:54 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 11:00:54 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 11:00:54 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 11:00:54 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:00:54 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 11:00:54 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 11:04:55 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 11:04:55 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:04:55 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:04:55 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 11:04:55 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 11:04:55 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 11:04:55 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 11:04:55 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:04:55 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 11:04:55 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 11:04:55 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 11:04:55 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:04:55 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 11:04:55 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 11:07:10 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 11:07:10 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:07:10 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:07:10 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 11:07:10 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 11:07:10 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 11:07:10 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 11:07:10 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:07:10 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 11:07:10 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 11:07:10 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 11:07:10 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:07:10 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 11:07:10 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 11:44:26 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 11:44:26 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:44:26 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:44:26 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 11:44:26 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 11:44:26 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 11:44:26 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 11:44:26 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:44:26 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 11:44:26 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 11:44:26 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 11:44:26 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:44:26 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 11:44:26 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 11:49:49 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 11:49:49 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:49:49 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:49:49 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 11:49:49 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 11:49:49 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 11:49:49 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 11:49:49 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:49:49 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 11:49:49 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 11:49:49 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 11:49:49 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:49:49 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 11:49:49 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 11:53:55 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 11:53:55 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:53:55 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:53:55 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 11:53:55 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 11:53:55 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 11:53:55 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 11:53:55 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 11:53:55 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 11:53:55 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 11:53:55 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 11:53:55 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 11:53:55 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 11:53:55 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 12:03:13 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 12:03:13 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 12:03:13 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 12:03:13 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 12:03:13 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 12:03:13 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 12:03:13 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 12:03:13 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 12:03:13 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 12:03:13 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 12:03:13 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 12:03:13 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 12:03:13 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 12:03:13 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 12:28:14 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 12:28:14 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 12:28:14 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 12:28:14 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 12:28:14 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 12:28:14 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 12:28:14 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 12:28:14 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 12:28:14 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 12:28:14 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 12:28:14 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 12:28:14 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 12:28:14 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 12:28:14 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 12:42:48 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 12:42:48 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 12:42:48 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 12:42:48 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 12:42:48 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 12:42:48 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 12:42:48 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 12:42:48 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 12:42:48 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 12:42:48 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 12:42:48 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 12:42:48 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 12:42:48 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 12:42:48 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 14:08:09 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 14:08:09 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 14:08:09 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 14:08:09 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 14:08:09 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 14:08:09 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 14:08:09 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 14:08:09 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 14:08:09 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 14:08:09 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 14:08:09 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 14:08:09 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 14:08:09 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 14:08:09 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 14:28:26 INFO  LoggerConfig:18 - Inside- user have valid credentials
+2021-08-04 14:28:26 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 14:28:26 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 14:28:26 INFO  LoggerConfig:33 - Inside- user should be authenticated to see the product list page
+2021-08-04 14:28:26 INFO  LoggerConfig:38 - Inside- should not have the access for Admin Features
+2021-08-04 14:28:26 INFO  LoggerConfig:43 - Inside- admin have valid credentials
+2021-08-04 14:28:26 INFO  LoggerConfig:48 - Inside- admin open website
+2021-08-04 14:28:26 INFO  LoggerConfig:28 - Inside- entered username and password
+2021-08-04 14:28:26 INFO  LoggerConfig:53 - Inside- admin should be authenticated to see the product list page
+2021-08-04 14:28:26 INFO  LoggerConfig:58 - Inside- should have ability to perform other admin activities as well
+2021-08-04 14:28:26 INFO  LoggerConfig:64 - Inside- user have valid credentials
+2021-08-04 14:28:26 INFO  LoggerConfig:23 - Inside- user open website
+2021-08-04 14:28:26 INFO  LoggerConfig:68 - Inside- entered invalid username and password
+2021-08-04 14:28:26 INFO  LoggerConfig:73 - Inside- user should not be authenticated
+2021-08-04 14:33:12 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 14:33:42 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 14:40:20 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 14:43:43 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 22:42:57 INFO  LoggerConfig:51 - User is present with username faiz@123.com
+2021-08-04 22:43:36 INFO  LoggerConfig:51 - User is present with username faiz@123.com

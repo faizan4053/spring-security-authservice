@@ -1,0 +1,16 @@
+
+spring:
+  datasource:
+    password: BrzrQFB7gfxwKoJUo6KQ
+    url: jdbc:postgresql://eldorado-userdb.cuhrancivu97.us-east-1.rds.amazonaws.com:5432/userdb1
+    username: eldorado
+
+  flyway:
+    baseline-on-migrate: true
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQL9Dialect

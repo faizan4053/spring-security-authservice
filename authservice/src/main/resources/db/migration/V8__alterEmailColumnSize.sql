@@ -1,0 +1,1 @@
+ALTER TABLE auth_user ALTER COLUMN email type VARCHAR(255);

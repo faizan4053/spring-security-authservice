@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    password: root
+    url: jdbc:postgresql://localhost:5432/mydb11
+    username: postgres
+  flyway:
+    baseline-on-migrate: true
+  jpa:
+   
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQL9Dialect

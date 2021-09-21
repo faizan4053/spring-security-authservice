@@ -1,0 +1,17 @@
+baseUri: http://localhost:8084/
+privateKey: testKey
+expiryTime: 90
+
+#Unit for refreshTokenExpiryTime is in seconds
+refreshTokenExpiryTime: 1800
+
+#Unit for accessTokenExpiryTime is in seconds
+accessTokenExpiryTime: 600
+
+
+
+server:
+  port: 8084
+spring:
+  profiles:
+    active: local
